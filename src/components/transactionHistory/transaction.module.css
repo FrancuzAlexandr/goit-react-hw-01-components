@@ -1,0 +1,13 @@
+.transactionHistory {
+  border-collapse: collapse;
+  margin: 50px auto;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  min-width: 500px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.transactionHistory thead tr {
+  background-color: #3c0ec6;
+  color: #ffffff;
+  text-align: left;
+}
